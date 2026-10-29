@@ -49,12 +49,12 @@ Instead of tedious manual static indexing, a dedicated centralized **DHCP Server
 ### Core Network Topology Diagram
 Below is the implemented physical/logical blueprint showing the interconnected routers, switching fabric, server architectures, and user endpoints:
 
-![Network Topology](https://githubusercontent.com) *(Note: Replace with your actual image path later)*
+![Network Topology](topology.png)
 
 ### DHCP Server Scope Pools Configuration
 The snapshot below highlights the active concurrent DHCP scoping parameters deployed within the infrastructure:
 
-![DHCP Pools Setup](https://githubusercontent.com) *(Note: Replace with your actual image path later)*
+![DHCP Pools Setup](dhcp_config.png)
 
 ---
 🚀 *Deployed by [Abdelwahab-soc](https://github.com) as part of the specialized Cisco CCNA hands-on security and core routing curriculum.*
